@@ -7,6 +7,9 @@ In Task-1, i have made an console application in which user can check whether in
 In this task i have learned how to take user input, usage of operators and conditional statements(if-else).
 
 #### Screenshots
+##### Source Code
 <img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/6b071dda-d452-40dd-943d-858d06841a29" />
+
+##### Output
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4b7be38a-d317-47af-bdf1-9d788b553e69" /> 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2e921978-cad6-4fd4-8f80-968a1eb12a78" />
