@@ -1,6 +1,6 @@
 # Internsip Task-1: Find Even or Odd Number
-## Problem Statement
-### Develop a simple Java console application that allows the user to input an integer and checks whether the number is even or odd.
+## Problem Statement:- ### Develop a simple Java console application that allows the user to input an integer and checks whether the number is even or odd.
+### 
 ### Explanation  
 In Task-1, i have made an console application in which user can check whether inputed number is odd or even.
 In this task i have learned how to take user input, usage of operators and conditional statements(if-else).
